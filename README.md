@@ -1,1 +1,1 @@
-U235 + n1 → Ba141 + Kr92 + 3n1
+CMPE student at RIT focused on hardware design, quantum computing, and secure systems.
